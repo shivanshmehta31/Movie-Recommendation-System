@@ -1,4 +1,4 @@
-# Movie Recommendation System using AutoEncoders
+# MovieMind: Predicting User Preferences with Stacked AutoEncoders
 
 This repository contains an implementation of a **Movie Recommendation System** using **AutoEncoders** and the **MovieLens dataset**. The model is trained on user-movie ratings to generate personalized movie recommendations.
 
